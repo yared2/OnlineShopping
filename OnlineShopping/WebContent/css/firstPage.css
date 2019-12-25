@@ -1,0 +1,13 @@
+#btn-get-started {
+	border:1px solid grey;
+	border-radius:10px;
+	padding:10px;
+}
+#main-front{
+	color:blue;
+	align:center;
+}
+#logos{
+	display:flex;
+	box-sizing: content-box;
+}

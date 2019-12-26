@@ -8,13 +8,13 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 @WebServlet("/signin")
-public class signin extends HttpServlet {
+public class SigninServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public signin() {
+    public SigninServlet() {
         super();
         // TODO Auto-generated constructor stub
     }
